@@ -1,3 +1,3 @@
 # 🚨 This repository moved!
 
-You can find it here: https://github.com/lkbaerenfaenger/blockchain-tokens-paper
+You can find it here: https://github.com/typeduke/blockchain-tokens-paper
